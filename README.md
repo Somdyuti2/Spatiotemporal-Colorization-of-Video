@@ -6,8 +6,8 @@ Scripts `level2marked_3d.m` and `level1marked_3d.m` generates partially colorize
 Example implementation colors 10 frames from the *Foreman* sequence where the first and last frames are taken as scribbled keyframes. 
 
 Run scripts in following order:  
-`filters_3d.m`
-`edges.m`
-`level2marked_3d.m`
-`level1marked_3d.m`
-`level0marked_3d.m`
+`filters_3d.m`  
+`edges.m`  
+`level2marked_3d.m`  
+`level1marked_3d.m`  
+`level0marked_3d.m`  

@@ -1,4 +1,4 @@
-# Spatiotemporal-Colorization-of-Video
+# Spatiotemporal-Colorization-of-Video-Using-3D-Steerable-Pyramids
 Matlab  implementation of the paper [Spatiotemporal Colorization of Video Using 3D Steerable Pyramids](https://ieeexplore.ieee.org/document/7428858/)
 
 Scripts `level2marked_3d.m` and `level1marked_3d.m` generates partially colorized video volumes at levels 2 and 1 as referenced in the paper. Script `level0marked_3d.m` generates a fully colored video volume. 
